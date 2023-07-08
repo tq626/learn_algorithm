@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="6syoRuXNYcqef9dBm0ij" name="栈笔试题">
+        <mxGraphModel dx="873" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="60" width="90" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="有六个元素6,5,4,3,2,1的顺序进栈，问下列哪一个不是合法的出栈序列&lt;br&gt;A.5,4,3,6,1,2&amp;nbsp; &amp;nbsp; &amp;nbsp;B.4,5,3,2,1,6&amp;nbsp; &amp;nbsp;C.3,4,6,5,2,1&amp;nbsp; D.2,3,4,1,5,6" style="text;strokeColor=none;align=center;fillColor=#66B2FF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="-30" width="430" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="320" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="80" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="130" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="180" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="230" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="270" width="80" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
